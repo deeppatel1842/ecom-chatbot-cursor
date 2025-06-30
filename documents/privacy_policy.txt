@@ -1,0 +1,241 @@
+PRIVACY POLICY
+
+Last Updated: January 15, 2024
+
+1. INTRODUCTION
+E-Commerce Store ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website, use our mobile application, or make purchases from us.
+
+2. INFORMATION WE COLLECT
+
+Personal Information:
+- Name and contact information (email, phone, address)
+- Payment information (credit card, billing address)
+- Account credentials (username, password)
+- Order history and preferences
+- Communication records with customer service
+
+Automatically Collected Information:
+- IP address and device information
+- Browser type and version
+- Operating system
+- Pages visited and time spent
+- Click patterns and navigation
+- Referral sources
+
+Cookies and Tracking Technologies:
+- Session cookies for website functionality
+- Persistent cookies for preferences
+- Analytics cookies for website improvement
+- Advertising cookies for personalized content
+- Social media cookies for sharing features
+
+3. HOW WE USE YOUR INFORMATION
+
+Order Processing:
+- Process and fulfill your orders
+- Send order confirmations and updates
+- Handle returns and refunds
+- Provide customer support
+
+Account Management:
+- Create and maintain your account
+- Verify your identity
+- Manage your preferences
+- Process account changes
+
+Communication:
+- Send order updates and shipping notifications
+- Respond to customer service inquiries
+- Send marketing communications (with consent)
+- Provide product recommendations
+
+Website Improvement:
+- Analyze website usage and performance
+- Improve user experience
+- Develop new features and services
+- Conduct research and analytics
+
+Security and Fraud Prevention:
+- Detect and prevent fraud
+- Protect against unauthorized access
+- Comply with legal obligations
+- Maintain website security
+
+4. INFORMATION SHARING
+
+We do not sell your personal information. We may share your information in the following circumstances:
+
+Service Providers:
+- Payment processors for secure transactions
+- Shipping carriers for order delivery
+- Customer service platforms
+- Analytics and marketing services
+- IT and security services
+
+Legal Requirements:
+- Comply with applicable laws and regulations
+- Respond to legal requests and court orders
+- Protect our rights and property
+- Prevent fraud and security threats
+
+Business Transfers:
+- In case of merger, acquisition, or sale
+- With your consent
+- To protect public safety
+
+5. DATA SECURITY
+
+Security Measures:
+- SSL encryption for data transmission
+- Secure servers and data centers
+- Regular security audits and updates
+- Access controls and authentication
+- Employee training on data protection
+
+Data Retention:
+- Account information: Until account deletion
+- Order information: 7 years for tax purposes
+- Marketing data: Until consent withdrawal
+- Analytics data: 2 years
+- Security logs: 1 year
+
+6. YOUR RIGHTS AND CHOICES
+
+Access and Update:
+- View and update your account information
+- Download your data
+- Correct inaccurate information
+- Request data deletion
+
+Marketing Preferences:
+- Opt out of marketing communications
+- Choose communication channels
+- Update email preferences
+- Manage cookie settings
+
+Data Portability:
+- Export your data in standard format
+- Transfer data to other services
+- Request data in machine-readable format
+
+7. COOKIES AND TRACKING
+
+Types of Cookies:
+- Essential cookies for website functionality
+- Performance cookies for analytics
+- Functionality cookies for preferences
+- Targeting cookies for advertising
+
+Cookie Management:
+- Browser settings to control cookies
+- Opt-out tools for advertising cookies
+- Cookie consent banner
+- Third-party cookie controls
+
+8. THIRD-PARTY SERVICES
+
+Analytics Services:
+- Google Analytics for website usage
+- Facebook Pixel for advertising
+- Hotjar for user behavior analysis
+- Mixpanel for product analytics
+
+Payment Processors:
+- Stripe for credit card processing
+- PayPal for alternative payments
+- Apple Pay and Google Pay
+- Bank transfer services
+
+Social Media:
+- Facebook, Instagram, Twitter integration
+- Social login options
+- Social sharing features
+- Social media advertising
+
+9. INTERNATIONAL DATA TRANSFERS
+
+Data Transfer:
+- Data may be transferred to other countries
+- Adequate protection measures in place
+- Compliance with local data protection laws
+- Standard contractual clauses when required
+
+10. CHILDREN'S PRIVACY
+
+Age Restrictions:
+- We do not knowingly collect data from children under 13
+- Parental consent required for users under 18
+- Age verification for certain products
+- Special protections for minor users
+
+11. CALIFORNIA PRIVACY RIGHTS
+
+CCPA Compliance:
+- Right to know what data is collected
+- Right to delete personal information
+- Right to opt out of data sales
+- Right to non-discrimination
+- Right to data portability
+
+12. EUROPEAN PRIVACY RIGHTS
+
+GDPR Compliance:
+- Right to access personal data
+- Right to rectification
+- Right to erasure (right to be forgotten)
+- Right to restrict processing
+- Right to data portability
+- Right to object to processing
+
+13. DATA BREACH NOTIFICATION
+
+Breach Response:
+- Immediate investigation of suspected breaches
+- Notification to affected users within 72 hours
+- Cooperation with law enforcement
+- Implementation of corrective measures
+- Regular security updates
+
+14. CHANGES TO THIS POLICY
+
+Policy Updates:
+- Regular review and updates
+- Notification of material changes
+- Continued use constitutes acceptance
+- Version history maintained
+- Effective date clearly stated
+
+15. CONTACT INFORMATION
+
+Privacy Inquiries:
+- Email: privacy@ecomstore.com
+- Phone: 1-800-ECOMMERCE (ext. 4)
+- Address: 123 Privacy Street, Data City, DC 12345
+- Data Protection Officer: dpo@ecomstore.com
+
+16. DISPUTE RESOLUTION
+
+Privacy Complaints:
+- Internal complaint handling process
+- External dispute resolution options
+- Regulatory authority complaints
+- Legal recourse when necessary
+
+17. COMPLIANCE AND CERTIFICATIONS
+
+Standards Compliance:
+- ISO 27001 Information Security
+- PCI DSS Payment Card Industry
+- SOC 2 Type II Security Controls
+- GDPR and CCPA Compliance
+
+18. GLOSSARY
+
+Technical Terms:
+- Cookies: Small text files stored on your device
+- IP Address: Internet Protocol address
+- SSL: Secure Sockets Layer encryption
+- API: Application Programming Interface
+- SDK: Software Development Kit
+
+This Privacy Policy ensures transparency about our data practices and provides you with control over your personal information. We are committed to protecting your privacy and maintaining your trust. 

@@ -1,0 +1,40 @@
+{
+  "faq_data": {
+    "total_entries": 37,
+    "categories": 9,
+    "avg_question_length": 6.378378378378378,
+    "avg_answer_length": 33.189189189189186,
+    "category_distribution": {
+      "Shopping & Orders": 5,
+      "Returns & Refunds": 5,
+      "Shipping & Delivery": 5,
+      "Product Information": 5,
+      "Account & Registration": 4,
+      "Customer Service": 4,
+      "Security & Privacy": 3,
+      "Loyalty & Rewards": 3,
+      "Technical Issues": 3
+    }
+  },
+  "product_data": {
+    "total_products": 8,
+    "categories": 1,
+    "brands": 8,
+    "price_range": {
+      "min": 59.99,
+      "max": 1299.99,
+      "mean": 506.24
+    }
+  },
+  "policy_data": {
+    "total_chunks": 7,
+    "documents": 5,
+    "avg_chunk_length": 671.7142857142857
+  },
+  "training_data": {
+    "train_samples": 77,
+    "val_samples": 17,
+    "test_samples": 17,
+    "total_samples": 111
+  }
+}

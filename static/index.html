@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-commerce Chatbot</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #f4f6fb; margin: 0; }
+        .chat-container { max-width: 500px; margin: 40px auto; background: #fff; border-radius: 10px; box-shadow: 0 2px 8px #0001; padding: 24px; }
+        .chat-title { text-align: center; font-size: 1.5em; margin-bottom: 16px; color: #1976d2; }
+        .chat-box { height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; background: #f9f9f9; margin-bottom: 16px; }
+        .msg { margin: 8px 0; }
+        .msg.user { text-align: right; }
+        .msg.bot { text-align: left; }
+        .msg .bubble { display: inline-block; padding: 10px 16px; border-radius: 18px; max-width: 80%; }
+        .msg.user .bubble { background: #1976d2; color: #fff; }
+        .msg.bot .bubble { background: #e3f2fd; color: #222; }
+        .chat-input { display: flex; }
+        .chat-input input { flex: 1; padding: 10px; border-radius: 6px 0 0 6px; border: 1px solid #bdbdbd; font-size: 1em; }
+        .chat-input button { padding: 10px 18px; border: none; background: #1976d2; color: #fff; border-radius: 0 6px 6px 0; font-size: 1em; cursor: pointer; }
+        .chat-input button:disabled { background: #90caf9; cursor: not-allowed; }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-title">E-commerce Chatbot</div>
+        <div class="chat-box" id="chat-box"></div>
+        <form class="chat-input" id="chat-form">
+            <input type="text" id="user-input" placeholder="Type your message..." autocomplete="off" required />
+            <button type="submit">Send</button>
+        </form>
+    </div>
+    <script>
+        const chatBox = document.getElementById('chat-box');
+        const chatForm = document.getElementById('chat-form');
+        const userInput = document.getElementById('user-input');
+
+        function appendMessage(sender, text) {
+            const msgDiv = document.createElement('div');
+            msgDiv.className = 'msg ' + sender;
+            const bubble = document.createElement('span');
+            bubble.className = 'bubble';
+            bubble.textContent = text;
+            msgDiv.appendChild(bubble);
+            chatBox.appendChild(msgDiv);
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+
+        chatForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const message = userInput.value.trim();
+            if (!message) return;
+            appendMessage('user', message);
+            userInput.value = '';
+            appendMessage('bot', '...');
+            const botMsg = chatBox.querySelector('.msg.bot:last-child .bubble');
+            try {
+                const res = await fetch('/chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ message })
+                });
+                const data = await res.json();
+                botMsg.textContent = data.response;
+            } catch (err) {
+                botMsg.textContent = 'Error: Could not reach chatbot.';
+            }
+        });
+    </script>
+</body>
+</html> 
